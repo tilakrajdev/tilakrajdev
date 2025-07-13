@@ -55,24 +55,11 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  
-  ![Tilak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tilakrajdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tilakrajdev&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tilakrajdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tilakrajdev&theme=tokyo-night&hide_border=true)
-  
-</div>
-
-<div align="center">
-  
-  ### 🏆 GitHub Trophies
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tilakrajdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tilakrajdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Tilak's GitHub Stats">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilakrajdev&layout=compact&theme=radical&langs_count=6" alt="Top Languages">
+</p>
 
 ---
 
